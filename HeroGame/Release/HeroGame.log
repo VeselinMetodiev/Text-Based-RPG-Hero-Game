@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  HeroGame.cpp
+  Generating code
+c:\users\user\desktop\herogameproject_metodiev\herogame\herogame\herogame.cpp(499): warning C4715: 'Fighting': not all control paths return a value
+  744 of 818 functions (91.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HeroGame.vcxproj -> C:\Users\User\Desktop\HeroGameProject_Metodiev\HeroGame\Release\HeroGame.exe

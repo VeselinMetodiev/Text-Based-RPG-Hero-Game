@@ -1,0 +1,5 @@
+Strength Potion-strength-10-100
+Agility Potion-strength-10-100
+Intelligence Potion-strength-10-100
+Constitution Potion-strength-10-100
+Defence Potion-strength-10-100
